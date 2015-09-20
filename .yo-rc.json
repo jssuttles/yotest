@@ -1,0 +1,8 @@
+{
+  "generator-ng-fullstack": {
+    "server": "node",
+    "username": "jssuttles",
+    "appName": "test",
+    "transpilerServer": "Babel"
+  }
+}
